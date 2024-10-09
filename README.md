@@ -74,5 +74,5 @@ This LabVIEW project demonstrates the use of modular architecture, user events, 
 ![image](https://github.com/user-attachments/assets/418207f2-74c8-4ab7-85e4-9a25341eda68)
 
 ## The appearance of the running program
-
-
+![image](https://github.com/user-attachments/assets/48d4b033-4db6-41f2-92c6-a55648294004)
+![image](https://github.com/user-attachments/assets/433e0841-b7e3-41da-90b2-6aa876f40496)
